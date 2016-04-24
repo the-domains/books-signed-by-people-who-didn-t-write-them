@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'THE PROPHET '
-datePublished: '2016-04-24T20:16:01.760Z'
-dateModified: '2016-04-24T20:15:47.536Z'
+datePublished: '2016-04-24T21:34:46.782Z'
+dateModified: '2016-04-24T20:16:06.313Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-the-prophet.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-the-prophet.md
-published: true
 url: the-prophet/index.html
 _type: Article
 
