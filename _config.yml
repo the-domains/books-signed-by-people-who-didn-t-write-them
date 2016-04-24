@@ -1,6 +1,6 @@
 name: "Books Signed by People Who Didn't Write Them"
 favicon: null
-layout_spectrum: 0.97976
+layout_spectrum: 0
 typography_spectrum: 0.87319
 title: "Books Signed by People Who Didn't Write Them"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f0ffec'
-    - '#11110f'
-    - '#ea2829'
-    - '#7b5e5a'
-    - '#d98f82'
-  brandStrength: 0.375
-  lightness: 0.75
-  saturation: 0.625
-  rhythmicContrast: 0.25
+    - '#ffffff'
+    - '#242623'
+    - '#d9b68e'
+    - '#86312e'
+    - '#6e5751'
+  brandStrength: 0.25
+  lightness: 0.4375
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
