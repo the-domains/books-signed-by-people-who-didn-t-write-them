@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ALIVE signed by Chef Susan Feniger
-datePublished: '2016-04-24T22:58:32.716Z'
-dateModified: '2016-04-24T22:58:09.592Z'
+datePublished: '2016-04-24T23:15:44.421Z'
+dateModified: '2016-04-24T22:58:38.378Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-24-alive-signed-by-chef-susan-feniger.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-alive-signed-by-chef-susan-feniger.md
-published: true
 url: alive-signed-by-chef-susan-feniger/index.html
 _type: Article
 
