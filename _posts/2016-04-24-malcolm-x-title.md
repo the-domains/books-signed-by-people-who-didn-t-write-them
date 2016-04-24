@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Malcolm X on page
-datePublished: '2016-04-24T22:19:53.748Z'
-dateModified: '2016-04-24T22:19:40.307Z'
+description: Malcolm X on page ALEX ME
+datePublished: '2016-04-24T22:36:44.443Z'
+dateModified: '2016-04-24T22:36:01.794Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: malcolm-x-title/index.html
 _type: Article
 
 ---
-Malcolm X on page
+Malcolm X on page ALEX ME
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22db6310acde1242d7f104c690a4a9c6e9678faa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b07c02d0-aacb-459e-9fc4-4f96cb853653.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70b55b71-e00a-486d-abf6-35c789f7f9e9.jpg)
