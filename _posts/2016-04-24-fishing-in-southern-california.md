@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T20:33:38.733Z'
-dateModified: '2016-04-24T20:33:36.393Z'
+datePublished: '2016-04-24T21:34:10.294Z'
+dateModified: '2016-04-24T20:37:29.730Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-fishing-in-southern-california.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-fishing-in-southern-california.md
-published: true
 url: fishing-in-southern-california/index.html
 _type: Article
 
