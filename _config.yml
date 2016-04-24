@@ -1,6 +1,6 @@
 name: "Books Signed by People Who Didn't Write Them"
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24696
 typography_spectrum: 0.87319
 title: "Books Signed by People Who Didn't Write Them"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#d9b68e'
     - '#86312e'
     - '#6e5751'
-  brandStrength: 0.25
-  lightness: 0.4375
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0.125
+  rhythmicContrast: 0
 purpose: []
