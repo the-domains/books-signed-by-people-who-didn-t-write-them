@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T21:35:40.209Z'
-dateModified: '2016-04-24T21:35:27.758Z'
+datePublished: '2016-04-24T21:47:49.553Z'
+dateModified: '2016-04-24T21:47:19.482Z'
 title: ''
 author:
   - name: ''
@@ -24,6 +24,7 @@ url: fast-food-nation/index.html
 _type: Article
 
 ---
+FAST FOOD NATION
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/85a3c55910d7aa82c64da13bc2818e5cbfd0ae7e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2d0a0b25f491cb458c72f4cf2455f182a626ee3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac5b834-1d17-4be9-afa7-a364f46592f0.jpg)
