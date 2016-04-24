@@ -4,8 +4,15 @@
         <description><![CDATA[Books Signed by People Who Didn't Write Them]]></description>
         <link>https://thegrid.ai/books-signed-by-people-who-didn-t-write-them/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 21:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 21:35:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/books-signed-by-people-who-didn-t-write-them/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FAST FOOD NATION]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85a3c55910d7aa82c64da13bc2818e5cbfd0ae7e.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/books-signed-by-people-who-didn-t-write-them/fast-food-nation/index.html</link>
+            <guid isPermaLink="false">ae1292ea-502c-473f-9b9a-b37f0c6f75bf</guid>
+            <pubDate>Sun, 24 Apr 2016 21:35:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/749fd7d6-a110-4981-b1c1-73c2c0cc4569.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/books-signed-by-people-who-didn-t-write-them/a-good-day-for-salad/index.html</link>
             <guid isPermaLink="false">f70892bf-6b5d-435c-8b8c-32b7640a7ab2</guid>
             <pubDate>Sun, 24 Apr 2016 20:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FAST FOOD NATION]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3dd1046-e832-4205-aae6-3e6e9b22bf88.jpg">]]></description>
-            <link>https://thegrid.ai/books-signed-by-people-who-didn-t-write-them/fast-food-nation/index.html</link>
-            <guid isPermaLink="false">ae1292ea-502c-473f-9b9a-b37f0c6f75bf</guid>
-            <pubDate>Sun, 24 Apr 2016 20:18:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
