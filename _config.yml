@@ -1,0 +1,29 @@
+name: "Books Signed by People Who Didn't Write Them"
+favicon: null
+layout_spectrum: 0.8075853160116822
+typography_spectrum: 0.6070993361063302
+title: "Book by People who Didn't Write Them"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9860253692604601
+  lightness: 0.16079352260567248
+  saturation: 0.1682190429419279
+  rhythmicContrast: 0.9226572716142982
+purpose: []
