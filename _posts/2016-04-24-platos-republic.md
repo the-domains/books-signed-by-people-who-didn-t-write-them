@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "PLATO'S REPUBLIC"
-datePublished: '2016-04-24T21:14:26.724Z'
-dateModified: '2016-04-24T21:14:16.788Z'
+datePublished: '2016-04-24T21:44:07.644Z'
+dateModified: '2016-04-24T21:14:44.194Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-platos-republic.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-platos-republic.md
-published: true
 url: platos-republic/index.html
 _type: Article
 
