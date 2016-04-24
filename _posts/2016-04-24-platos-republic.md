@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "PLATO'S REPUBLIC signed by Phyllis Diller"
-datePublished: '2016-04-24T23:20:22.000Z'
-dateModified: '2016-04-24T23:20:03.304Z'
+datePublished: '2016-04-24T23:24:27.959Z'
+dateModified: '2016-04-24T23:20:27.806Z'
 title: ''
 author:
   - name: ''
