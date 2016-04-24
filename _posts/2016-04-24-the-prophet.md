@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: THE PROPHET signed by Adam Carolla
-datePublished: '2016-04-24T21:43:27.259Z'
-dateModified: '2016-04-24T21:43:02.921Z'
+datePublished: '2016-04-24T21:46:51.486Z'
+dateModified: '2016-04-24T21:43:35.682Z'
 title: ''
 author:
   - name: ''
