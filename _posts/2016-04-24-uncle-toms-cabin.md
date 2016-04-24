@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T21:44:48.283Z'
-dateModified: '2016-04-24T21:33:33.987Z'
+datePublished: '2016-04-24T22:43:48.606Z'
+dateModified: '2016-04-24T21:44:56.907Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-24-uncle-toms-cabin.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-uncle-toms-cabin.md
-published: true
 url: uncle-toms-cabin/index.html
 _type: Article
 
