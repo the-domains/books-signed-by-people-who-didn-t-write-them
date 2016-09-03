@@ -31,6 +31,9 @@ navigation:
   - name: ALIVE signed by Chef Susan Feinger
     id: 14b0ac17-60be-48b6-bf6b-1e0eacf05779
     type: content
+  - name: MOBY DICK signed by Russell Peters
+    id: 729bfd7e-5bea-4901-845c-b5f171a63fcf
+    type: content
 favicon: null
 title: Books Signed by People Who Didn't Write Them
 purpose: []
