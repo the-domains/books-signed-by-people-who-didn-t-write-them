@@ -5,20 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T21:51:44.933Z'
-dateModified: '2016-04-24T21:51:44.213Z'
+datePublished: '2016-08-31T16:00:40.705Z'
+dateModified: '2016-08-31T16:00:39.576Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-24-fast-food-nation.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
 starred: false
 url: fast-food-nation/index.html
 _type: Article
