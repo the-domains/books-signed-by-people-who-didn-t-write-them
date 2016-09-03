@@ -28,11 +28,11 @@ navigation:
   - name: UNCLE TOM'S CABIN signed by Fazon Love
     id: 5c212a87-c694-4160-8e82-dc297ee88aee
     type: content
-  - name: ALIVE signed by Chef Susan Feinger
-    id: 14b0ac17-60be-48b6-bf6b-1e0eacf05779
-    type: content
   - name: MOBY DICK signed by Russell Peters
     id: 729bfd7e-5bea-4901-845c-b5f171a63fcf
+    type: content
+  - name: ALIVE signed by Chef Susan Feinger
+    id: 14b0ac17-60be-48b6-bf6b-1e0eacf05779
     type: content
 favicon: null
 title: Books Signed by People Who Didn't Write Them
