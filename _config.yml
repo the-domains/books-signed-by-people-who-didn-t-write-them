@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: UNCLE TOM'S CABIN
+  - name: UNCLE TOM'S CABIN signed by Fazon Love
     id: 5c212a87-c694-4160-8e82-dc297ee88aee
     type: content
   - name: ALIVE signed by Chef Susan Feinger
